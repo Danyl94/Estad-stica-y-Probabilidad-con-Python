@@ -1,0 +1,6 @@
+Clase,FrecuenciaAbsoluta,FrecuenciaAbsolutaacumulada,FrecuenciaRelativa,FrecuenciaRelativaAcumulada
+Muy satisfechQ,10,10,0.4,0.016
+satisfechQ,7,17,0.28,17/25
+Medianamente satiifechQ,5,22,0.2,22/25
+Descontento,3,25,0.12,25/25
+Totales,25,,1,
